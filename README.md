@@ -6,3 +6,5 @@ practice programs
 03/07/20 created a coin toss function to toss a coin a user-defined amount of times. All coin tosses are displayed and printed on the screen and counted at the end, showing which coin flipped most.
 
 03/07/20 created a make bricks function where the small bricks = 1 and the large bricks = 5. the function must use a combination of large and small bricks to reach the goal number. 
+
+17/07/20 Added a War card game where two bots fight each other until one wins.
