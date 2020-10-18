@@ -1,4 +1,4 @@
-'''the aim of this function if to check if the small or big bricks 
+'''the aim of this function is to check if the small or big bricks 
 can be used to reach the "goal" number small bricks are equal to 1
 while big bricks are equal to 5.'''
 
